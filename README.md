@@ -26,3 +26,6 @@ class OmarAshraf:
         self.architecture = ['MVC', 'Serverless', 'microservices']
 
 ```
+
+## 💻 Current projects
+- ... - Side project
