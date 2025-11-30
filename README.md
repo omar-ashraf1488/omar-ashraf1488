@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Omar Ashraf 👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Backend & Data Engineer
