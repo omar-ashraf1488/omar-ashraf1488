@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a Backend & Data Engineer
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily: **.py**,  **.sql**
+- 📖 I am currently reading *Kubernetes in Action by Marko Luksa*
+- 💬 Talk to me about Backend & Data Engineering
+
 ```python
 class OmarAshraf:
 
