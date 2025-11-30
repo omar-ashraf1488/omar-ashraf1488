@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**omar-ashraf1488/omar-ashraf1488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class OmarAshraf:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.username = 'omar-ashraf1488'
+        self.name = 'Omar Ashraf'
+        self.position = 'Backend & Data Engineer'
+        #self.web = ''
+        #self.cv = ''
+        self.code = {
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'GitHub Actions', 'GitLab CI'],
+            #'frontend': ['HTML', 'CSS'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx']
+        }
+        self.architecture = ['MVC', 'Serverless', 'microservices']
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
