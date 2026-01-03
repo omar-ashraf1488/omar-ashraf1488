@@ -28,4 +28,4 @@ class OmarAshraf:
 ```
 
 ## 💻 Current projects
-- ... - Side project
+- chefbot-sim - Side project
