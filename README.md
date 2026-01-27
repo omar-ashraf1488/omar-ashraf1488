@@ -28,4 +28,5 @@ class OmarAshraf:
 ```
 
 ## 💻 Current projects
-- chefbot-sim - Side project
+- [chefbot-sim](https://github.com/omar-ashraf1488/chefbot-sim) - Side project
+- [meal-kit-MDP-k8s](https://github.com/omar-ashraf1488/meal-kit-MDP-k8s) - Side project
